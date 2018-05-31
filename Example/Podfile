@@ -3,6 +3,8 @@ use_frameworks!
 target 'QKAFNetworkSDK_Example' do
   pod 'QKAFNetworkSDK', :path => '../'
 
+
+
   target 'QKAFNetworkSDK_Tests' do
     inherit! :search_paths
 

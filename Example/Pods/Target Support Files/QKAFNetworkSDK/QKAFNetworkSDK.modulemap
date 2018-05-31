@@ -1,0 +1,6 @@
+framework module QKAFNetworkSDK {
+  umbrella header "QKAFNetworkSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

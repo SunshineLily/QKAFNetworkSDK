@@ -1,0 +1,36 @@
+{
+  "name": "QKAFNetworkSDK",
+  "version": "0.1.0",
+  "summary": "A short description of QKAFNetworkSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1587272615@qq.com/QKAFNetworkSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1587272615@qq.com": "1587272615@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1587272615@qq.com/QKAFNetworkSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "QKAFNetworkSDK/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 3.1.0"
+    ],
+    "MBProgressHUD": [
+      "~> 1.1.0"
+    ],
+    "SBJson": [
+      "~> 4.0.4"
+    ],
+    "FLAnimatedImage": [
+      "~> 1.0.12"
+    ]
+  }
+}
